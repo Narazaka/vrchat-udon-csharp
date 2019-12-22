@@ -36,3 +36,5 @@ sysinfo.txt
 *.unitypackage
 Assets/VRCSDK
 Assets/VRCSDK.meta
+Assets/Udon.meta
+Assets/Udon
