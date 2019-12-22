@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.abxy.roslyn": "https://github.com/mwahnish/Unity-Roslyn.git",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.2.2",
     "com.unity.collab-proxy": "1.2.15",
@@ -38,5 +39,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.abxy.roslyn": {
+      "hash": "1bc072bad6b0d589c101b6a5d8cdd01147a5a35f",
+      "revision": "HEAD"
+    }
   }
 }
